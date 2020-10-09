@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="HybridFrameWorkTesting" duration-ms="15999" started-at="2020-10-08T21:09:24 GMT+05:30" finished-at="2020-10-08T21:09:40 GMT+05:30">
+  <suite name="HybridFrameWorkTesting" duration-ms="16628" started-at="2020-10-09T17:47:19 GMT+05:30" finished-at="2020-10-09T17:47:36 GMT+05:30">
     <groups>
     </groups>
-    <test name="TestingTC" duration-ms="15999" started-at="2020-10-08T21:09:24 GMT+05:30" finished-at="2020-10-08T21:09:40 GMT+05:30">
+    <test name="TestingTC" duration-ms="16628" started-at="2020-10-09T17:47:19 GMT+05:30" finished-at="2020-10-09T17:47:36 GMT+05:30">
       <class name="testCases.LoginPage_TC">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCases.LoginPage_TC@305fd85d]" name="setUp" is-config="true" duration-ms="5147" started-at="2020-10-08T21:09:24 GMT+05:30" finished-at="2020-10-08T21:09:29 GMT+05:30">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testCases.LoginPage_TC@34cd072c]" name="setUp" is-config="true" duration-ms="4943" started-at="2020-10-09T17:47:20 GMT+05:30" finished-at="2020-10-09T17:47:24 GMT+05:30">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:testCases.LoginPage_TC@305fd85d]" name="loginTest" duration-ms="10023" started-at="2020-10-08T21:09:29 GMT+05:30" finished-at="2020-10-08T21:09:39 GMT+05:30">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:testCases.LoginPage_TC@34cd072c]" name="loginTest" duration-ms="10089" started-at="2020-10-09T17:47:24 GMT+05:30" finished-at="2020-10-09T17:47:35 GMT+05:30">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginPage_TC@305fd85d]" name="tearDown" is-config="true" duration-ms="770" started-at="2020-10-08T21:09:39 GMT+05:30" finished-at="2020-10-08T21:09:40 GMT+05:30">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginPage_TC@34cd072c]" name="tearDown" is-config="true" duration-ms="1328" started-at="2020-10-09T17:47:35 GMT+05:30" finished-at="2020-10-09T17:47:36 GMT+05:30">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
